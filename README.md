@@ -31,15 +31,12 @@ Source of truth for brand colors, voice, and team info: [`Builds/context.md`](ht
 
 Primary brand colour: **`#316728`** (deep green).
 
-## Getting started (when scaffolding begins)
+## Getting started
 
-```bash
-git clone https://github.com/SpireMortgageTeam/main-website.git
-cd main-website
-npx create-next-app@latest . --typescript --tailwind --app --no-src-dir
-```
+- **Set up your machine:** [`SETUP.md`](SETUP.md) — first-time install + daily workflow
+- **Pick your next task:** [`TASKS.md`](TASKS.md) — chunked roadmap, one piece at a time
 
-After scaffold: install Tailwind brand tokens reflecting `#316728` and the typography choices Renée + Riley confirm.
+The refactor is broken into 18 small chunks. Work one chunk at a time. Each chunk is a half-day or less and has a clear "done when" criterion. Never have more than one chunk in progress.
 
 ## Owner + collaborators
 
