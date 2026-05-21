@@ -159,7 +159,7 @@ If Renée wants something not on this list, add it. The list is living, not lock
 Mark chunks done as you ship them. Date them so we can see velocity.
 
 - [x] Chunk 1 · Local dev environment — 2026-05-21
-- [ ] Chunk 2 · Spire brand tokens in Tailwind
+- [x] Chunk 2 · Spire brand tokens in Tailwind — 2026-05-21
 - [ ] Chunk 3 · Layout shell (header + footer)
 - [ ] Chunk 4 · Home page
 - [ ] Chunk 5 · About / Our Team
