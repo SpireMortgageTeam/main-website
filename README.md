@@ -16,8 +16,8 @@ This repo is the **website refactor lane**, owned primarily by Riley (Marketing)
 |---|---|---|
 | 1. Scaffold + design system | Next.js project, Tailwind, brand tokens, basic pages stubbed | Week 1-2 |
 | 2. Core content migration | Home, About, Team, Contact, Calculators pages | Week 2-3 |
-| 3. Calculator integration | Native components imported from [`Builds/projects/mortgage-calculators`](https://github.com/SpireMortgageTeam/Builds/tree/main/projects/mortgage-calculators) | Week 2-3 |
-| 4. Chatbot integration | Native renee-ai component imported from [`Builds/projects/chatbot`](https://github.com/SpireMortgageTeam/Builds/tree/main/projects/chatbot) | Week 3 |
+| 3. Calculator integration | Native components imported from `Builds/projects/mortgage-calculators` | Week 2-3 |
+| 4. Chatbot integration | Native renee-ai component imported from `Builds/projects/chatbot` | Week 3 |
 | 5. Blog / SEO content | Blog system + initial migration | Week 3-4 |
 | 6. Cutover | DNS swap, decommission Squarespace | Week 4+ |
 
@@ -27,19 +27,19 @@ The current Squarespace site at `spiremortgage.ca` stays live until this replatf
 
 ## Brand reference
 
-Source of truth for brand colors, voice, and team info: [`Builds/context.md`](https://github.com/SpireMortgageTeam/Builds/blob/main/context.md).
-
 Primary brand colour: **`#316728`** (deep green).
 
 ## Getting started
 
+```bash
+npm run dev
+```
+
 - **Set up your machine:** [`SETUP.md`](SETUP.md) — first-time install + daily workflow
 - **Pick your next task:** [`TASKS.md`](TASKS.md) — chunked roadmap, one piece at a time
 
-The refactor is broken into 18 small chunks. Work one chunk at a time. Each chunk is a half-day or less and has a clear "done when" criterion. Never have more than one chunk in progress.
-
 ## Owner + collaborators
 
-- **Lead:** Riley (Marketing) — Claude Design + content
+- **Lead:** Riley (Marketing) — design + content
 - **Support:** Tor (during engagement) — Next.js infrastructure, deployment, integrations
 - **Sign-off:** Renée before any DNS or live cutover changes
