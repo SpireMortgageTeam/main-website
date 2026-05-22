@@ -2,7 +2,8 @@
 
 @theme inline {
   /* --- Spire brand colours --- */
-  --color-spire-green:       #316728; /* primary */
+  --color-spire-green:       #316728; /* primary action colour */
+  --color-spire-teal:        #2D5464; /* dark brand teal — header/footer bg */
   --color-spire-green-light: #placeholder; /* TODO: add from brand kit */
   --color-spire-green-dark:  #placeholder; /* TODO: add from brand kit */
   --color-spire-accent:      #placeholder; /* TODO: add from brand kit */

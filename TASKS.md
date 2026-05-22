@@ -160,7 +160,7 @@ Mark chunks done as you ship them. Date them so we can see velocity.
 
 - [x] Chunk 1 · Local dev environment — 2026-05-21
 - [x] Chunk 2 · Spire brand tokens in Tailwind — 2026-05-21
-- [ ] Chunk 3 · Layout shell (header + footer)
+- [x] Chunk 3 · Layout shell (header + footer) — 2026-05-22
 - [ ] Chunk 4 · Home page
 - [ ] Chunk 5 · About / Our Team
 - [ ] Chunk 6 · Calculators page
