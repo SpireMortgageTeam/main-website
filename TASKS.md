@@ -162,7 +162,7 @@ Mark chunks done as you ship them. Date them so we can see velocity.
 - [x] Chunk 2 · Spire brand tokens in Tailwind — 2026-05-21
 - [x] Chunk 3 · Layout shell (header + footer) — 2026-05-22
 - [x] Chunk 4 · Home page — 2026-05-22
-- [ ] Chunk 5 · About / Our Team
+- [x] Chunk 5 · About / Our Team — 2026-05-22
 - [ ] Chunk 6 · Calculators page
 - [ ] Chunk 7 · Mortgage services
 - [ ] Chunk 8 · Renewals
